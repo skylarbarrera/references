@@ -1,5 +1,12 @@
 # @wagmi/chains
 
+## 0.3.2
+
+### Patch Changes
+
+- 260ab59: Added ZORA testnet
+- 6aea7ee: Fixed internal types.
+
 ## 0.3.1
 
 ### Patch Changes

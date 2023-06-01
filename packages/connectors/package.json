@@ -2,13 +2,13 @@
   "name": "@wagmi/connectors",
   "description": "A collection of connectors for wagmi",
   "license": "MIT",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "scripts": {
     "build": "tsup",
     "dev": "DEV=true tsup"
   },
   "peerDependencies": {
-    "@wagmi/chains": ">=0.3.1",
+    "@wagmi/chains": ">=0.3.2",
     "typescript": "^5.0.4",
     "viem": "~0.3.35"
   },

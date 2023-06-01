@@ -1,5 +1,15 @@
 # @wagmi/connectors
 
+## 2.0.1
+
+### Patch Changes
+
+- 6aea7ee: Fixed internal types.
+- b18b314: Updated @walletconnect/ethereum-provider and @web3modal/standalone dependencies
+- Updated dependencies [260ab59]
+- Updated dependencies [6aea7ee]
+  - @wagmi/chains@0.3.2
+
 ## 2.0.0
 
 ### Patch Changes
